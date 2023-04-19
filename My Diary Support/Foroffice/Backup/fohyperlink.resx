@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+            Microsoft ResX Schema 
+        
+            Version 1.3
+                
+            The primary goals of this format is to allow a simple XML format 
+            that is mostly human readable. The generation and parsing of the 
+            various data types are done through the TypeConverter classes 
+            associated with the data types.
+        
+            Example:
+        
+                ... ado.net/XML headers & schema ...
+                <resheader name="resmimetype">text/microsoft-resx</resheader>
+                <resheader name="version">1.3</resheader>
+                <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+                <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+                <data name="Name1">this is my long string</data>
+                <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+                <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+                    [base64 mime encoded serialized .NET Framework object]
+                </data>
+                <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+                    [base64 mime encoded string representing a byte array form of the .NET Framework object]
+                </data>
+        
+            There are any number of "resheader" rows that contain simple 
+            name/value pairs.
+            
+            Each data row contains a name, and value. The row also contains a 
+            type or mimetype. Type corresponds to a .NET class that support 
+            text/value conversion through the TypeConverter architecture. 
+            Classes that don't support this are serialized and stored with the 
+            mimetype set.
+                     
+            The mimetype is used for serialized objects, and tells the 
+            ResXResourceReader how to depersist the object. This is currently not 
+            extensible. For a given mimetype the value must be set accordingly:
+        
+            Note - application/x-microsoft.net.object.binary.base64 is the format 
+                   that the ResXResourceWriter will generate, however the reader can 
+                   read any of the formats listed below.
+        
+            mimetype: application/x-microsoft.net.object.binary.base64
+            value   : The object must be serialized with 
+                    : System.Serialization.Formatters.Binary.BinaryFormatter
+                    : and then encoded with base64 encoding.
+        
+            mimetype: application/x-microsoft.net.object.soap.base64
+            value   : The object must be serialized with 
+                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+                    : and then encoded with base64 encoding.
+            mimetype: application/x-microsoft.net.object.bytearray.base64
+            value   : The object must be serialized into a byte array 
+                    : using a System.ComponentModel.TypeConverter
+                    : and then encoded with base64 encoding.
+        -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Panel1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="buttonflt2.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="buttonflt1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Panelweb.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label2.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="weblinktextbox.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label4.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="MyXPButton1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Panelemail.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="subjecttextbox.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label5.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="emailtextbox.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label3.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="OpenFileDialog1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="OpenFileDialog1.Location" type="System.Drawing.Point, System.Drawing, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </data>
+  <data name="Button1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Button2.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="opt1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="opt2.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="$this.Name">
+    <value>fohyperlink</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAAAAACoDAAAFgAAACgAAAAgAAAAQAAAAAEAGAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+        gICAgICAgICAgICAgICAgICAgICAgICAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgIAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA
+        gICAgIAAAAAAAAAAAAAAAAAAAAAAAACAgIAAAAAwwOAwwOAwwOAwwOAwwOAwwOAwwOAwwOAwwOAwwOAw
+        wOAwwOAwwOAwwOAwwOAwwOAwwOAwwOAwwOAwwOAwwOAwwOAAAACAgIAAAAAAAAAAAAAAAAAAAACAgIAA
+        AAAwwOBPyOBPyOBPyOBPyOBPyOBPyOBPyOBPyOBPyOBPyOAAAABPyOBAx+BAx+BAx+BAx+BAx+A/x+A/
+        x+A/wOAwwOAwwOAwwOAAAACAgIAAAAAAAAAAAACAgIAAAADf//9QyO9QyO9QyO9QyO9QyO9QyO9QyO9Q
+        yO9QyO9QyO9QyO8AAAAAAABPyO9PyO9PyOBPyOBAx+BAx+BAx+A/x+A/x+A/wOBAx+AwwOAAAACAgIAA
+        AAAAAACAgIAAAADf//9fz+9fz+9fz+9fz+9fz+9fz+9fz+9fz+9fz+9fz+9fz+9fz+8AAAAAAABQz+9Q
+        yO9PyO9PyO9PyOBAx+BAx+BAx+A/x+BAx+AwwOAAAACAgIAAAACAgIAAAADf//9fz+9fz+9fz+9fz+9f
+        z+9fz+9fz+9fz+9fz+9fz+9fz+9fz+9fz+9fz+8AAAAAAABfz+9Qz+9Qz+9QyO9PyO9PyOBAx+BAx+BA
+        x+AwwOAwwOAAAACAgICAgIAAAADf//9g0O9g0O9g0O9g0O9g0O9g0O9g0O9g0O9g0O9g0O9g0O9g0O9g
+        0O9g0O9g0O8AAAAAAABfz+9fz+9fz+9Qz+9QyO9PyO9PyOBAx+BAx+AwwOAAAACAgICAgIAAAADf//9v
+        1+9v1+9v1+9v1+9v1+9v1+9v1+9v1+9v1+9v1+9v1+8AAAAAAABv0O9v0O9v0O8AAAAAAABgz+9fz+9f
+        z+9fz+9QyO9QyO9QyO9QyO8wwOAAAACAgICAgIAAAADf//9v0O9v0O9v0O9v0O9v1+9w1+9w1+9w1+9w
+        1+9w1+8AAAAAAABw1+9w1+9w1+9w1+9v1+8AAAAAAABg0O9gz+9fz+9fz+9Qz+9QyO9QyO9QyO8AAACA
+        gICAgIAAAADf//9gz+9gz+9gz+9w1+9w1+9w1+9/1+9/1+9/2O8AAAAAAAB/2O9/2O9/1+9/1+9w1+9w
+        1+9w1+8AAAAAAABv0O9g0O9fz+9QyO9QyO9QyO9QyO8AAACAgICAgIAAAADf//9gz+9gz+9gz+9/1+9/
+        1+9/2O9/2O+A2O8AAAAAAACA2O+A2O+A2O+A2O9/2O9/2O9/1+9/1+9w1+8AAAAAAABv0O9g0O9QyO9Q
+        yO9QyO9QyO8AAACAgICAgIAAAADf//+g5/Cg5/Bv0O9/2O+A2O+A2O+A2PAAAAAAAACP3/CP3/CP3/CP
+        3/CP2PCA2PCA2O+A2O9/2O9/2O9w1+8AAAAAAABv0O9QyO9QyO9QyO9QyO8AAACAgICAgIAAAADf//+g
+        5/Cg5/Bw0O+A2O+P2PCP3/AAAAAAAACQ3/CQ3/CQ3/CQ3/CQ3/CP3/CP3/CP3/CP2PCA2O+A2O9/2O9/
+        1+8AAAAAAABv0O+Q3/BQyO9QyO8AAACAgICAgIAAAADf//+g5/Cg5/B/1++P3/CP3/AAAAAAAACQ4PCQ
+        4PCf4PCf4PCf4PCQ4PCQ4PCQ3/CQ3/CP3/CP3/CA2PCA2O9/2O9/1+9w1+9w1++Q3/AAAACQ3/AAAACA
+        gICAgIAAAADf//+g5/Cg5/CA2PCQ3/AAAAAAAACf4PCf4PCf4PCf4PCf4PCf4PCf4PCf4PCf4PCf4PCQ
+        4PCQ3/CP3/CP3/CA2O9/2O9/1+9w1+8AAAAAAACQ3/AAAACAgICAgIAAAADf//+g5/Cg5/CA2PAAAAAA
+        AACf4PCg4PCg5/Cg5/Cg5/Cg5/Cg5/Cg5/Cg5/Cg4PCf4PCf4PCQ4PCQ3/CP3/CP3/CA2O9/2O8AAAAA
+        AACQ3/CQ3/AAAACAgICAgIAAAADf//+g5/Cg5/AAAAAAAACg4PCg5/Cv5/Cv5/Cv5/Cv6PCv6PCv6PCv
+        5/Cv5/Cv5/Cg5/Cg4PCf4PCf4PCQ3/CP3/CP3/AAAAAAAACQ3/CQ3/CQ3/AAAACAgICAgIAAAADf//+g
+        5/AAAAAAAACg4PCg5/Cv5/Cv6PCw6PCw6PCw6PCw6PCw6PCw6PCw6PCv6PCv5/Cg5/Cg4PCf4PCf4PCQ
+        3/AAAAAAAACA2O+Q3/CQ3/CQ3/AAAACAgICAgIAAAADf//8AAAAAAACQ3/Cg5/Cg5/AAAACw6PC/6PC/
+        6PC/7/C/7/C/7/C/6PC/6PCw6PCw6PCv5/Cg5/Cg4PCf4PAAAAAAAACP3/CA2O+Q3/CQ3/CQ3/AAAACA
+        gICAgIAAAADf//+g5/Cg5/Cf4PCv5/Cw6PAAAAAAAAC/7/DA7//A7//A7//A7//A7/+/7/C/6PCw6PCw
+        6PCv5/Cg5/AAAAAAAACQ4PCP3/CP2PCQ3/CQ3/CQ3/AAAACAgICAgIAAAADf//+g5/Cg5/Cf4PCw6PCw
+        6PC/7/AAAAAAAADA7//P8P/P8P/P8P/A7//A7//A7/+/7/Cw6PCw6PAAAAAAAACf4PCf4PCQ3/CP3/CQ
+        3/CQ3/CQ3/AAAACAgICAgIAAAADf//+g5/Cg5/Cg4PCw6PC/6PDA7//A7/8AAAAAAADQ8P/Q8P/Q8P/P
+        8P/P8P/A7//A7/+/6PAAAAAAAACv5/Cg4PCf4PCQ3/CP3/CQ3/CQ3/CQ3/AAAACAgICAgIAAAADf//+g
+        5/Cg5/Cg5/C/6PC/7/DA7//P8P/Q8P8AAAAAAADf9//Q9//Q9//Q8P/P8P/A7/8AAAAAAACw6PCv5/Cg
+        5/Cf4PCQ4PCP3/CQ3/CQ3/CQ3/AAAACAgICAgIAAAADf//+g5/Cv5/Cv5/C/6PDA7//A7//P8P/Q9//f
+        9/8AAAAAAADf9//f9//Q9//P8P8AAAAAAAC/6PCw6PCv5/Cg5/Cf4PCQ4PCQ3/CQ3/CQ3/CQ3/AAAACA
+        gICAgIAAAADf//+g5/Cv5/Cv5/C/7/DA7//P8P/Q8P/Q9//f9//g+P8AAAAAAADf9//Q9//Q8P8AAADA
+        7/+/7/Cw6PCv6PCg5/Cf4PCf4PCQ3/CQ3/CQ3/CQ3/AAAACAgICAgIAAAADf//+g5/Cv5/Cv5/C/7/DA
+        7//P8P/Q8P/f9//f9//g+P/v+P8AAAAAAADf9//Q8P/P8P/A7/+/7/Cw6PCv6PCg5/Cf4PCf4PCQ3/CQ
+        3/CQ3/CQ3/AAAACAgIAAAACAgIAAAADf///f//+v5/C/7/DA7//P8P/Q8P/Q9//f9//g+P/g+P/g+P8A
+        AAAAAADQ8P/P8P/A7/+/7/Cw6PCv6PCg5/Cf4PCf4PCQ3/CQ3/Df//8AAACAgIAAAAAAAACAgICAgIAA
+        AADf///f//+/6PDA7//A7//P8P/Q9//f9//f9//f9//f9//f9/8AAAAAAADA7//A7/+/6PCw6PCv5/Cg
+        5/Cf4PCQ4PCP3/Df//8AAACAgICAgIAAAAAAAAAAAACAgICAgIAAAADf///f///f///f///f///f///f
+        ///f///f///f///f///f///f///f///f///f///f///f///f///f///f///f//8AAACAgICAgIAAAAAA
+        AAAAAAAAAAAAAACAgICAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgICAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgICAgICAgICA
+        gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+        gIAAAAAAAAAAAAAAAAD8AAAP8AAAB+AAAAfAAAADgAAAAYAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AACAAAABgAAAAcAAAAPgAAAH8AAADw==
+</value>
+  </data>
+</root>

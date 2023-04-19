@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="foroffice">
+</Property><Property Name="Solution File" Value="C:\Users\Vinayak\Desktop\foroffice\foroffice\foroffice.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Vinayak\Desktop\foroffice\foroffice\foroffice.suo">
+</Property><Property Name="Date" Value="Monday, March 09, 2015">
+</Property><Property Name="Time" Value="19:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="foroffice.sln" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\foroffice.sln">
+</Event><Event ErrorLevel="0" Project="" Source="foroffice.suo" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\foroffice.suo">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="foroffice.vbproj" Description="Project file successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\foroffice.vbproj">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="foroffice.vbproj.user" Description="Project user file successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\foroffice.vbproj.user">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="foabout.vb" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\foabout.vb">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="fodateandtime.vb" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\fodateandtime.vb">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="fodummy.vb" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\fodummy.vb">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="fofirst.vb" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\fofirst.vb">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="foForm1.vb" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\foForm1.vb">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="fohyperlink.vb" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\fohyperlink.vb">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="fospeller1.vb" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\fospeller1.vb">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="gsfospl2.vb" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\gsfospl2.vb">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="GURU.ICO" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\GURU.ICO">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="foabout.resx" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\foabout.resx">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="fodateandtime.resx" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\fodateandtime.resx">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="fodummy.resx" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\fodummy.resx">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="fofirst.resx" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\fofirst.resx">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="foForm1.resx" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\foForm1.resx">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="fohyperlink.resx" Description="File successfully backed up as C:\Users\Vinayak\Desktop\foroffice\foroffice\Backup\fohyperlink.resx">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="foroffice.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="foroffice" Source="foroffice.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="foroffice.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="foroffice.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="foroffice" Source="foroffice.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

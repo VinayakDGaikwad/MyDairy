@@ -1,0 +1,196 @@
+<VisualStudioProject>
+    <VisualBasic
+        ProjectType = "Local"
+        ProductVersion = "7.0.9466"
+        SchemaVersion = "1.0"
+        ProjectGuid = "{04FA1BC2-BA83-47A3-90FD-0A43EFF3685E}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "GURU.ICO"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "foroffice"
+                AssemblyOriginatorKeyFile = ""
+                AssemblyOriginatorKeyMode = "None"
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                OptionCompare = "Binary"
+                OptionExplicit = "On"
+                OptionStrict = "Off"
+                RootNamespace = "foroffice"
+                StartupObject = "foroffice.fofirst"
+            >
+                <Config
+                    Name = "Debug"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "Release"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "false"
+                    DefineTrace = "true"
+                    DebugSymbols = "false"
+                    IncrementalBuild = "false"
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "Microsoft.VisualBasic"
+                    AssemblyName = "Microsoft.VisualBasic"
+                    HintPath = "..\..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.0.3705\Microsoft.VisualBasic.dll"
+                />
+                <Reference
+                    Name = "gscore10"
+                    AssemblyName = "gscore10"
+                    HintPath = "..\gscore10\bin\gscore10.dll"
+                />
+                <Reference
+                    Name = "gsrtb10"
+                    AssemblyName = "gsrtb10"
+                    HintPath = "..\gsrtb10\bin\debug\gsrtb10.dll"
+                />
+                <Reference
+                    Name = "gsxpbut10"
+                    AssemblyName = "gsxpbut10"
+                    HintPath = "..\gsxpbut10\bin\gsxpbut10.dll"
+                />
+            </References>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+                <Import Namespace = "System" />
+                <Import Namespace = "System.Collections" />
+                <Import Namespace = "System.Data" />
+                <Import Namespace = "System.Drawing" />
+                <Import Namespace = "System.Diagnostics" />
+                <Import Namespace = "System.Windows.Forms" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AssemblyInfo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "foabout.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "foabout.resx"
+                    DependentUpon = "foabout.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "fodateandtime.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "fodateandtime.resx"
+                    DependentUpon = "fodateandtime.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "fodummy.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "fodummy.resx"
+                    DependentUpon = "fodummy.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "fofirst.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "fofirst.resx"
+                    DependentUpon = "fofirst.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "foForm1.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "foForm1.resx"
+                    DependentUpon = "foForm1.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "fohyperlink.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "fohyperlink.resx"
+                    DependentUpon = "fohyperlink.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "fospeller1.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "gsfospl2.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "GURU.ICO"
+                    BuildAction = "Content"
+                />
+            </Include>
+        </Files>
+    </VisualBasic>
+</VisualStudioProject>
+

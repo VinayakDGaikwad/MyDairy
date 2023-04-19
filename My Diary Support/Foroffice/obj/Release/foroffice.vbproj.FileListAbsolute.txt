@@ -1,0 +1,38 @@
+C:\Users\Vinayak\Desktop\foroffice\foroffice\bin\foroffice.exe
+C:\Users\Vinayak\Desktop\foroffice\foroffice\bin\foroffice.xml
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\foroffice.foabout.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\foroffice.fodateandtime.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\foroffice.fodummy.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\foroffice.fofirst.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\foroffice.foform1.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\foroffice.fohyperlink.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\foroffice.exe
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Release\foroffice.xml
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.exe
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.xml
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\bin\foroffice.exe
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\bin\foroffice.xml
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.foabout.resources
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.fodateandtime.resources
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.fodummy.resources
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.fofirst.resources
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.foform1.resources
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.fohyperlink.resources
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.vbprojResolveAssemblyReference.cache
+D:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.vbproj.GenerateResource.Cache
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.exe
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.xml
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\bin\foroffice.exe
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\bin\foroffice.xml
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\ResolveAssemblyReference.cache
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.foabout.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.fodateandtime.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.fodummy.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.fofirst.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.foform1.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\foroffice.fohyperlink.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\GenerateResource.read.1.tlog
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Release\GenerateResource.write.1.tlog

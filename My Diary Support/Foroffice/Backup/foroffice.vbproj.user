@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <VisualBasic>
+        <Build>
+            <Settings ReferencePath = "D:\Documents and Settings\Administrator\My Documents\Visual Studio Projects\gscore10\bin\;d:\documents and settings\administrator\my documents\visual studio projects\foroffice\;d:\documents and settings\administrator\my documents\visual studio projects\gsos\;d:\documents and settings\administrator\my documents\visual studio projects\gscore11\bin\;d:\documents and settings\administrator\my documents\visual studio projects\gsmnu1\bin\debug\;d:\documents and settings\administrator\my documents\visual studio projects\gsrtb10\bin\debug\;d:\documents and settings\administrator\my documents\visual studio projects\gsxpbut10\bin\;C:\Documents and Settings\Guruparan\My Documents\Visual Studio Projects\gscore10\bin\;C:\Documents and Settings\Guruparan\My Documents\Visual Studio Projects\gsrtb10\bin\debug\;C:\Documents and Settings\Guruparan\My Documents\Visual Studio Projects\gsxpbut10\bin\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+    </VisualBasic>
+</VisualStudioProject>
+

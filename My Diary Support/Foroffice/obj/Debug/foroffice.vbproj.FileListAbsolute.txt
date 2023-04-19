@@ -1,0 +1,30 @@
+C:\Users\Vinayak\Desktop\foroffice\foroffice\bin\foroffice.exe
+C:\Users\Vinayak\Desktop\foroffice\foroffice\bin\foroffice.pdb
+C:\Users\Vinayak\Desktop\foroffice\foroffice\bin\foroffice.xml
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\foroffice.foabout.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\foroffice.fodateandtime.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\foroffice.fodummy.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\foroffice.fofirst.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\foroffice.foform1.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\foroffice.fohyperlink.resources
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\foroffice.exe
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\foroffice.xml
+C:\Users\Vinayak\Desktop\foroffice\foroffice\obj\Debug\foroffice.pdb
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\bin\foroffice.exe
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\bin\foroffice.pdb
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\bin\foroffice.xml
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\ResolveAssemblyReference.cache
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\foroffice.foabout.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\foroffice.fodateandtime.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\foroffice.fodummy.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\foroffice.fofirst.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\foroffice.foform1.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\foroffice.fohyperlink.resources
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\GenerateResource.read.1.tlog
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\GenerateResource.write.1.tlog
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\foroffice.exe
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\foroffice.xml
+B:\My Projects\MyDailyLog\My Diary Support\Foroffice\obj\Debug\foroffice.pdb
